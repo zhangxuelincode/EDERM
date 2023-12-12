@@ -1,9 +1,4 @@
-# Error Density-dependent Empirical Risk Minimization
-
-Empirical Risk Minimization (ERM) with the squared loss has become one of the most popular principles for designing learning algorithms. However, the existing mean regression models under ERM usually suffer from poor generalization performance due to their sensitivity to atypical observations (e.g., outliers). 
-For alleviating this sensitivity, some strategies have been proposed by utilizing the quantitative relationship of error values with different observations to form robust learning objectives.
-Instead of focusing on error values, this paper considers the error density to uncover the structure information of observations and proposes a new learning objective, called Error Density-dependent Empirical Risk Minimization (EDERM), for robust regression under complex data environment. For the EDERM-based regression models, we empirically validate their robustness and competitiveness on simulated and real data.
-
+# Demo for paper "Error Density-dependent Empirical Risk Minimization"
 
 # Getting Started
 
