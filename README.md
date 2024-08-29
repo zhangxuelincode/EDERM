@@ -1,4 +1,4 @@
-# Demo for paper "Error Density-dependent Empirical Risk Minimization"
+# Demo for paper "Error Density-dependent Empirical Risk Minimization" accepted by ESWA
 
 # Getting Started
 
